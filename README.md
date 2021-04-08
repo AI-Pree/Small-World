@@ -1,2 +1,2 @@
 # Small-World
-Generation of overworlds and landscape
+Procedural Generation of overworlds and landscape
