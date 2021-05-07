@@ -1,0 +1,32 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b24a5666cc8dd7af293df27f74cc8895
+# Starting compiling UnityEngine.UI.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1af7782158e78260198841f800781e09
+# Starting compiling UnityEditor.TestRunner.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ac892b9bf250b2cfbbc4657d698031b4
+# Starting compiling UnityEditor.UI.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6fdba466d6ecce2cf9378b7a6888c347
+# Starting compiling Unity.VSCode.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-afe2aa744cf1193e2aaa7d786aa7f371
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-54b54f1008b00fa66883e4053e2984cb
+# Starting compiling Unity.Timeline.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c58d5cf1f2c7385f194ec24dd7bab0c2
+# Starting compiling Unity.TextMeshPro.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8919d3d1414f1b3ff9e8a0040a59b213
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c437b60c10e260cb8a13c68a0573785c
+# Starting compiling Unity.Rider.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fbdcdee55469613deba183a1e9399f6e
+# Starting compiling Unity.Timeline.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bca3946d9fa3a81bc9f29bb669426f14
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-101d6fed4d56b4e3e8c682c99493a0c6
+# Starting compiling Unity.SysrootPackage.Editor.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0139c1402833c1163bd6d8eba9bc0738
+# Starting compiling Unity.Sysroot.Linux_x86_64.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7fc44136433e413e09ce726359dde033
+# Starting compiling Unity.Toolchain.Linux-x86_64.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7fc5cb2f7dc05f6b5b73dbfb2a7ba1af
+# Starting compiling Assembly-CSharp.dll
+/home/sexpistol/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2f7115aebdd2cd4faacaa82ae38b20d8
